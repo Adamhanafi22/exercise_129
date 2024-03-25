@@ -9,7 +9,7 @@ div{
   width: 700px;
   height:  1000px;
   margin: 20px auto;
-  border: 3px solid #333;
+  border: 7px solid #333;
   padding: 30px;
   display: flex;
   flex-direction: column;
