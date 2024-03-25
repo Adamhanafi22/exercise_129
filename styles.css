@@ -1,0 +1,6 @@
+/* CSS untuk membuat border */
+.container {
+  border: 2px solid black; /* Mendefinisikan border dengan ketebalan 2px dan warna hitam */
+  padding: 20px; /* Memberikan jarak antara isi konten dengan border */
+  width: 300px; /* Lebar container */
+}
