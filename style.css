@@ -2,11 +2,16 @@ body {
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
-  width: fit-content; /* Mengatur lebar h1 sesuai dengan kontennya */
+  width: fit-content; 
   font-size: 40px;
   text-align: center;
   border: 10px solid #090909; /* Border dengan ketebalan 10px dan warna #090909 */
   padding: 100px; /* Memberikan padding untuk memisahkan border dengan teks */
+}
+div{
+  width: 500px;
+  height:  750px;
+  margin: 20px;
 }
 
 
@@ -38,6 +43,7 @@ h1 {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
 
 .p1 {
   font-weight: bold;
