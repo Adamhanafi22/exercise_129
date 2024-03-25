@@ -1,17 +1,21 @@
 body {
-  margin-top: 50px;
-  margin-left: auto;
-  margin-right: auto;
-  width: fit-content; 
-  font-size: 40px;
-  text-align: center;
-  border: 10px solid #090909; /* Border dengan ketebalan 10px dan warna #090909 */
-  padding: 100px; /* Memberikan padding untuk memisahkan border dengan teks */
-}
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+} 
+
 div{
   width: 500px;
   height:  750px;
-  margin: 20px;
+  margin: 20px auto;
+  border: 3px solid #333;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  background-color: antiquewhite;
+
+
 }
 
 
