@@ -1,4 +1,4 @@
-h1 {
+body {
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
@@ -6,7 +6,7 @@ h1 {
   font-size: 40px;
   text-align: center;
   border: 10px solid #090909; /* Border dengan ketebalan 10px dan warna #090909 */
-  padding: 10px; /* Memberikan padding untuk memisahkan border dengan teks */
+  padding: 100px; /* Memberikan padding untuk memisahkan border dengan teks */
 }
 
 
